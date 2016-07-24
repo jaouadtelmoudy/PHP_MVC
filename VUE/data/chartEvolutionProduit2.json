@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "produits": [
+        {"produit": "Ampoule", "data": "0"},
+        {"produit": "Led", "data": "0"},
+        {"produit": "Plomberie", "data": "0"},
+        {"produit": "Chauffage", "data": "0"}
+    ]
+}

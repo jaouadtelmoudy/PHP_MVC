@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "annuel": [
+        {"id": 1, "mois": "Janvier", "montant": "27398,50 Dhs"},
+        {"id": 2, "mois": "Fevrier", "montant": "702832,23 Dhs"},
+        {"id": 3, "mois": "Mars", "montant": "150239,00 Dhs"},
+        {"id": 4, "mois": "Avril", "montant": "90351,00 Dhs"},
+        {"id": 5, "mois": "Mai", "montant": "10523,78 Dhs"},
+        {"id": 6, "mois": "Juin", "montant": "92110,20 Dhs"},
+        {"id": 7, "mois": "Juillet", "montant": "80139,20 Dhs"},
+        {"id": 8, "mois": "Aout", "montant": "10000 Dhs"},
+        {"id": 9, "mois": "Septembre", "montant": "78203,23 Dhs"},
+        {"id": 10, "mois": "Octobre", "montant": "92031 Dhs"},
+        {"id": 11, "mois": "Novembre", "montant": "828301 Dhs"},
+        {"id": 12, "mois": "Decembre", "montant": "821932 Dhs"}
+    ]
+}

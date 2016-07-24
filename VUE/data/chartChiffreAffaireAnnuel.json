@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "chart": [
+        {"mois": "Jan", "taux": "20"},
+        {"mois": "Fev", "taux": "20"},
+        {"mois": "Mar", "taux": "19"},
+        {"mois": "Avri", "taux": "18"},
+        {"mois": "Mail", "taux": "18"},
+        {"mois": "Juin", "taux": "17"},
+        {"mois": "Juil", "taux": "16"},
+        {"mois": "Aout", "taux": "16"},
+        {"mois": "Sept", "taux": "16"},
+        {"mois": "Oct", "taux": "16"},
+        {"mois": "Nov", "taux": "15"},
+        {"mois": "Dec", "taux": "15"}
+    ]
+}

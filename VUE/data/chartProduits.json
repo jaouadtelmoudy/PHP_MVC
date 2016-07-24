@@ -1,0 +1,10 @@
+{
+    "success": true,
+    "produits": [
+        {"produit": "Ampoule", "quantite": "68.3"},
+        {"produit": "Led", "quantite": "17.9"},
+        {"produit": "Plomberie", "quantite": "10.2"},
+        {"produit": "Chauffage", "quantite": "1.7"},
+        {"produit": "Marberie", "quantite": "1.9"}
+    ]
+}

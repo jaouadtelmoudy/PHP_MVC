@@ -1,0 +1,10 @@
+{
+    "success": true,
+    "agents": [
+        {"id": 1, "agent": "Lemrini Karim", "mois": "Janvier", "montant": "13783,23 Dhs"},
+        {"id": 2, "agent": "AitLehcen Hassan", "mois": "Fevrier", "montant": "200462,50 Dhs"},
+        {"id": 3, "agent": "Touil Reda", "mois": "Avril", "montant": "13783,23 Dhs"},
+        {"id": 4, "agent": "Drissi Khaled", "mois": "Juillet", "montant": "502376,00 Dhs"},
+        {"id": 5, "agent": "Bencheqroun Amina", "mois": "Decembre", "montant": "502376,00 Dhs"}
+    ]
+}
